@@ -4,7 +4,10 @@
 
 - I’m passionate about data science, building machine learning solutions, and developing software that makes an impact on real-life business challenges.
   
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asligook/)
+- 💬 You can contact me from: 
+  <a href="https://www.linkedin.com/in/asligook/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="20" style="center: middle;" />
+  </a>
 
 <!--
 ![asligook's GitHub stats](https://github-readme-stats.vercel.app/api?username=asligook&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true\&hide=contribs&show=prs_merged,prs_merged_percentage)
