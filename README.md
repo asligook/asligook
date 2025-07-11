@@ -6,10 +6,19 @@
   
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asligook/)
 
-
+<!--
 ![asligook's GitHub stats](https://github-readme-stats.vercel.app/api?username=asligook&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true\&hide=contribs&show=prs_merged,prs_merged_percentage)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asligook&theme=tokyonight)
+-->
+
+<a href="https://github.com/asligook">
+  <img height="400" align="top" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=asligook&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs&show=prs_merged,prs_merged_percentage" />
+</a>
+<a href="https://github.com/asligook">
+  <img height="400" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asligook&theme=tokyonight&langs_count=4&card_width=300" />
+</a>
+
 
 
 <!--
